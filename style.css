@@ -1,0 +1,63 @@
+.css-6qob1r {
+    text-align: center;
+    padding: 2rem 1rem;
+    color: rgba(255, 255, 255, .5);
+
+    background-color: #202020;
+    font-family: "Abril Fatface", serif;
+    font-size: 16px;
+}
+
+.css-1544g2n h3 {
+    font-size: 20px;
+    color: #fff;
+}
+
+
+.css-16idsys {
+    color: rgba(255, 255, 255, 0.795);
+    font-size: 14px;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+
+.css-1vbkxwb {
+    font-family: "Source Sans Pro", sans-serif;
+    color: #ffeeea;
+    width: 120px;
+    height: 32px;
+
+
+}
+
+.css-1ik2ge.e1ewe7hr5 {
+    background: #fd4648;
+    border-radius: 40px;
+}
+
+.css-1ik2ge.e1ewe7hr5:hover {
+    background-color: #e02426;
+    ;
+
+}
+
+::-webkit-scrollbar {
+    background: transparent;
+    border-radius: 100px;
+    height: 6px;
+    width: 12px;
+
+
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+
+footer {
+    visibility: hidden;
+}
+
+
+
