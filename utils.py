@@ -164,7 +164,7 @@ def footer():
         <p style="color:#ffeeea; font-family: "Source Sans Pro", sans-serif;"> Made with   ❤️   by Manal EL Aidouni </p>
             <section class="mb-4 bg-dark p-4">
                 <a class="btn btn-outline-light btn-floating m-1" style="background-color: #202020; color: white; border-radius: 50%;  padding: 9px; margin-right: 10px;box-shadow: 0 0 0 1px #ffeeea;width:14px; height:14px;" href="https://twitter.com/Manal_ELAI" role="button"><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-outline-light btn-floating m-1" style="background-color: #202020; color: white; border-radius: 50%;  padding: 9px; margin-right: 10px;box-shadow: 0 0 0 1px #ffeeea;width:14px; height:14px;" href="https://www.linkedin.com/" role="button"><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" style="background-color: #202020; color: white; border-radius: 50%;  padding: 9px; margin-right: 10px;box-shadow: 0 0 0 1px #ffeeea;width:14px; height:14px;" href="https://www.linkedin.com/in/manalelaidouni/" role="button"><i class="fab fa-linkedin-in"></i></a>
                 <a class="btn btn-outline-light btn-floating m-1" style="background-color: #202020; color: white; border-radius: 50%;  padding: 9px; margin-right: 10px;box-shadow: 0 0 0 1px #ffeeea;width:14px; height:14px;" href="https://github.com/Manalelaidouni" role="button"><i class="fab fa-github"></i></a>
             </  section>
         </div>
