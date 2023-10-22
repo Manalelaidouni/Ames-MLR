@@ -98,6 +98,6 @@ Feel free to reach out if you have any questions or feedback!
 
 - Reach out on [Twitter](https://twitter.com/Manal_ELAI).
 - Send me an [email](mailto:mm.elaidouni@gmail.com).
-- Connect with me on [LinkedIn](https://www.linkedin.com/).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/manalelaidouni/).
 - Check out my [Blog](https://manalelaidouni.github.io/).
 
